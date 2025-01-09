@@ -34,7 +34,7 @@ The dashboard is designed to provide actionable insights through the following c
 - **Bar Chart**: Visualizes the number of calls received during the most recent month, segmented by day of the week.
 
 
-- ## Usage and Customization
+## Usage and Customization
 1. Clone or download the project repository from GitHub.
 2. Open the Tableau file (.twb) using Tableau Public or Desktop
 3. Ensure the dataset file **"Call Center Data(raw).xlsx"** is in the same directory or update the data source path in Tableau
