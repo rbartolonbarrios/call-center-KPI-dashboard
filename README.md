@@ -34,6 +34,6 @@ The dashboard is designed to provide actionable insights through the following c
 - **Bar Chart**: Visualizes the number of calls received during the most recent month, segmented by day of the week.
 
 ## Tools and Technologies
-- **Data Cleaning**: Performed directly in Tableau Prep (if applicable).
+- **Data Cleaning**: Performed directly in Tableau.
 - **Visualization and Dashboard Creation**: Tableau
 - **Version Control**: Git and GitHub
