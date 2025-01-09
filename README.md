@@ -33,7 +33,8 @@ The dashboard is designed to provide actionable insights through the following c
 ### 4. Call Volume by Day of the Week
 - **Bar Chart**: Visualizes the number of calls received during the most recent month, segmented by day of the week.
 
-## Tools and Technologies
-- **Data Cleaning**: Performed directly in Tableau.
-- **Visualization and Dashboard Creation**: Tableau
-- **Version Control**: Git and GitHub
+
+- ## Usage and Customization
+1. Clone or download the project repository from GitHub.
+2. Open the Tableau file (.twb) using Tableau Public or Desktop
+3. Ensure the dataset file **"Call Center Data(raw).xlsx"** is in the same directory or update the data source path in Tableau
