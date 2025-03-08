@@ -1,5 +1,5 @@
 # Call Center Performance Dashboard
-
+![](CallCenterDashboard.png)
 ## Overview
 This project utilizes a dataset containing three months of daily call records from a call center with eight employees. The dataset provides insights into call resolution, call duration, customer satisfaction, speed of answering calls, and the time of day calls occurred. The goal is to provide a user-friendly dashboard to help managers monitor and evaluate employee performance effectively.
 
